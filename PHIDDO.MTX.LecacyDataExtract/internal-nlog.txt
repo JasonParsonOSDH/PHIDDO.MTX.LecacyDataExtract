@@ -1,0 +1,28 @@
+2021-10-21 17:17:01.6044 Info Message Template Auto Format enabled
+2021-10-21 17:17:01.6387 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-21 17:17:01.7096 Info Adding target DatabaseTarget(Name=db)
+2021-10-21 17:17:01.7361 Info Adding target FileTarget(Name=allfile)
+2021-10-21 17:17:01.8025 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2021-10-21 17:17:01.8110 Info Validating config: TargetNames=allfile, ConfigItems=50, FilePath=C:\Users\jasonp\source\Repos\PHIDDO.MTX.LecacyDataExtract\PHIDDO.MTX.LecacyDataExtract\bin\Debug\net5.0\nlog.config
+2021-10-21 17:17:01.8237 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: db
+2021-10-21 17:23:16.4620 Info Message Template Auto Format enabled
+2021-10-21 17:23:16.4620 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-21 17:23:16.4939 Info Adding target DatabaseTarget(Name=db)
+2021-10-21 17:23:16.5202 Info Adding target FileTarget(Name=allfile)
+2021-10-21 17:23:16.5474 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2021-10-21 17:23:16.5474 Info Validating config: TargetNames=allfile, ConfigItems=50, FilePath=C:\Users\jasonp\source\Repos\PHIDDO.MTX.LecacyDataExtract\PHIDDO.MTX.LecacyDataExtract\bin\Debug\net5.0\nlog.config
+2021-10-21 17:23:16.5559 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: db
+2021-10-21 17:32:33.5480 Info Message Template Auto Format enabled
+2021-10-21 17:32:33.5604 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-21 17:32:33.5923 Info Adding target DatabaseTarget(Name=db)
+2021-10-21 17:32:33.6039 Info Adding target FileTarget(Name=allfile)
+2021-10-21 17:32:33.6273 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2021-10-21 17:32:33.6273 Info Validating config: TargetNames=allfile, ConfigItems=50, FilePath=C:\Users\jasonp\source\Repos\PHIDDO.MTX.LecacyDataExtract\PHIDDO.MTX.LecacyDataExtract\bin\Debug\net5.0\nlog.config
+2021-10-21 17:32:33.6365 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: db
+2021-10-21 17:33:32.9958 Info Message Template Auto Format enabled
+2021-10-21 17:33:33.0241 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-21 17:33:33.0574 Info Adding target DatabaseTarget(Name=db)
+2021-10-21 17:33:33.0574 Info Adding target FileTarget(Name=allfile)
+2021-10-21 17:33:33.0932 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2021-10-21 17:33:33.0932 Info Validating config: TargetNames=allfile, ConfigItems=50, FilePath=C:\Users\jasonp\source\Repos\PHIDDO.MTX.LecacyDataExtract\PHIDDO.MTX.LecacyDataExtract\bin\Debug\net5.0\nlog.config
+2021-10-21 17:33:33.1031 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: db
